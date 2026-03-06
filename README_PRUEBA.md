@@ -12,3 +12,10 @@
 ---
 
 # Nombre del proyecto
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+| :--- | :---: | ---: |
+| Alineado Izq | Centrado | Alineado Der |
+| Fila 2 | Datos | Datos |
+
+
